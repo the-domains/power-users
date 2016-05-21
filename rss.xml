@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Power Users]]></title>
         <description><![CDATA[Power Users]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/power-users/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 May 2016 18:20:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 21 May 2016 18:20:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/power-users/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Experience a NASA Spacewalk Through the Lens of a GoPro Camera]]></title>
+            <description><![CDATA[<article><h1>Experience a NASA Spacewalk Through the Lens of a GoPro Camera</h1><p>Want to see what it's like to "walk" around in space outside the International Space Station? NASA wants to show you. The agency recently strapped GoPro cameras onto two astronauts to capture the wonder of spacewalks from their perspective.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d3d0f4303f6b7750f52857db8c393871f382887d.jpg"></article>]]></description>
+            <link>http://petapixel.com/2015/04/12/experience-a-nasa-spacewalk-through-the-lens-of-a-gopro-camera/</link>
+            <guid isPermaLink="false">b1c59471-e5b5-46a5-b895-0360c95f76f4</guid>
+            <pubDate>Sat, 21 May 2016 18:20:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Techies Project by Photographer Helena Price]]></title>
             <description><![CDATA[<article><h1>Techies Project by Photographer Helena Price</h1><p>The two words "Silicon Valley" immediately stir up stereotypes, stigma and maybe an HBO show. The name has become a cultural reflex, and that's what photographer Helena Price wants to change with her ambitious, large-scale portrait and interview series. Techies Project, launched today, is a collection of 100 in-depth interviews that breaks this idea of the "sameness" plaguing the area.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a7265c5abd944ed7ad3fdd9c9b6270021b13537b.jpg"></article>]]></description>
