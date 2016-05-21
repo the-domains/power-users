@@ -1,0 +1,14 @@
+layout_spectrum: 0.5541385784745216
+typography_spectrum: 0.18862693361006677
+color:
+  brandStrength: 0.8609191558789462
+  lightness: 0.3698568514082581
+  saturation: 0.49766126298345625
+  rhythmicContrast: 0.733895686455071
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+name: Power Users
